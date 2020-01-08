@@ -1,0 +1,36 @@
+.sidebar {
+  width: 300px;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 50%;
+  float:left;
+
+}
+
+.column2 {
+  width: 50%;
+  float: right;
+}
+
+.contact {
+background-color: red;
+clear: both;
+
+text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+h3 {
+  color: blue;
+  font-size: 50px;
+}
+
+h4 {
+  border-radius: 50px;
+}
